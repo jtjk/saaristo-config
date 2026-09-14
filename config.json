@@ -1,4 +1,4 @@
 {
-  "apiUrl": "https://lauttavahti-api.azurewebsites.net",
+  "apiUrl": "https://testi-osoite.example.com",
   "dataUrl": "https://lauttavahtiweb.z1.web.core.windows.net"
 }
